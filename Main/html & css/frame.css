@@ -1,0 +1,14 @@
+#f1 {
+	border-bottom-style: solid;
+	border-color: rgba(0,0,0,1);
+	border-width: 5;
+}
+#f2 {
+	border-right-style: solid;
+	border-left-style: solid;
+	border-color: rgba(0,0,0,1);
+	border-width: 5px
+}
+body{
+	background-color: black;
+}
